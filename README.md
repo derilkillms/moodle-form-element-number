@@ -1,9 +1,11 @@
 # Custom Type Number in Moodle Form
-
+```php
  $mform->addElement('number', 'nameinput', get_string('labelname','block_name'));
+```
 
-copy file 
+## copy file 
 
+``` php
 element-number.mustache
 
 element-number-inline.mustache
@@ -27,4 +29,5 @@ QuickForm.php
 number.php
 
 /lib/pear/HTML/QuickForm/
+```
 
