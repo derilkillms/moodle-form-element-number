@@ -2,7 +2,7 @@
 
  $mform->addElement('number', 'nameinput', get_string('labelname','block_name'));
 
-copy
+copy file 
 
 element-number.mustache
 
