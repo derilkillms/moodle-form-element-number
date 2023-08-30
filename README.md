@@ -5,20 +5,26 @@
 copy
 
 element-number.mustache
+
 element-number-inline.mustache
+
 /lib/form/templates/
 
 number.php
+
 /lib/form
 
 
 formslib.php
+
 /lib/
 
 
 QuickForm.php
+
 /lib/pear/HTML/
 
 number.php
+
 /lib/pear/HTML/QuickForm/
 
